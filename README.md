@@ -1,6 +1,9 @@
 # publicについて
 このリポジトリでは、株式会社プッシュ ( https://push.co.jp ) の更新情報を載せます。
 
+## GPT-3.5のファインチューニング方法
+https://push.co.jp/archives/1276
+
 ## OpenAI APIの使い方
 https://push.co.jp/archives/1147
 

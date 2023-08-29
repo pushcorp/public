@@ -1,6 +1,9 @@
 # publicについて
 このリポジトリでは、株式会社プッシュ ( https://push.co.jp ) の更新情報を載せます。
 
+## ChatGPT Enterprise
+https://push.co.jp/archives/1304
+
 ## GPT-3.5のファインチューニング方法
 https://push.co.jp/archives/1276
 

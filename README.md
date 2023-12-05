@@ -1,6 +1,10 @@
 # publicについて
 このリポジトリでは、株式会社プッシュ ( https://push.co.jp ) の更新情報を載せます。
 
+##　Copilot
+Microsoft Copilot:
+https://docs.push.co.jp/v/copilot
+
 ## ChatGPT Enterprise
 https://push.co.jp/archives/1304
 
